@@ -4,7 +4,7 @@ I love learning new things, and collaborating with people to build projects and 
 If you would like to collaborate on a new project, or just have a chat, feel free to connect with me and message me on LinkedIn: https://www.linkedin.com/in/yashbhal/
 
 # I'm *Currently* Into: 
-- **Technical**: tinyML, human-computer interaction, neuroscience, augmented reality.
+- **Technical**: TinyML, human-computer interaction, neuroscience, augmented reality.
 - **Misc**: Reading health science books and learning how to cook good food. 
 - **Learning**: Rust (Programming Language), learning how to play Riptide by Vance Joy on the ukulele.
 
