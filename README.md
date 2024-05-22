@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Yash Bhalchandra
 
-I love learning new things, and collaborating with people to build projects and quality products.<br>
+I love learning new things, and collaborating with people to build projects and quality products that solve problems.<br>
 If you would like to collaborate on a new project, or just have a chat, feel free to connect with me and message me on LinkedIn: https://www.linkedin.com/in/yashbhal/
 
 # I'm *Currently* Into: 
