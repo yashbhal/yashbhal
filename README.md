@@ -6,7 +6,7 @@ If you would like to collaborate on a new project, or just have a chat, feel fre
 # I'm *Currently* Into: 
 - **Technical**: TinyML, human-computer interaction, neuroscience, augmented reality.
 - **Misc**: Reading health science books and learning how to cook good food. 
-- **Learning**: Rust (Programming Language), learning how to play Riptide by Vance Joy on the ukulele.
+- **Learning**: Python, Rust, Ukulele.
 
 <!--
 **yashbhal/yashbhal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
