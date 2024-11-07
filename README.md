@@ -3,11 +3,6 @@
 I love learning new things, and collaborating with people to build projects and quality products that solve problems.<br>
 If you would like to collaborate on a new project, or just have a chat, feel free to connect with me and message me on LinkedIn: https://www.linkedin.com/in/yashbhal/
 
-# I'm *Currently* Into: 
-- **Technical**: TinyML, human-computer interaction, neuroscience, augmented reality.
-- **Misc**: Reading health science books and learning how to cook good food. 
-- **Learning**: Python, Rust, Ukulele.
-
 <!--
 **yashbhal/yashbhal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
